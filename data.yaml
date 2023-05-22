@@ -1,0 +1,6 @@
+path: /home/ptg-ml-3/dental_ai/ultratonic_version_2/converted2k
+train: /home/ptg-ml-3/dental_ai/ultratonic_version_2/converted2k/train/images
+val: /home/ptg-ml-3/dental_ai/ultratonic_version_2/converted2k/val/images
+test: /home/ptg-ml-3/dental_ai/ultratonic_version_2/converted2k/test/images
+nc: 18
+names: [impacted_tooth, bone_loss, restorations, other, absent_tooth, dental_caries, attrition, periapical_abnormality, implants, position, prosthetics, root_stump, fracture, dental_caries_old, altered_morphology, microdontia, bone_loss_old, periapical_abnormality_old]
